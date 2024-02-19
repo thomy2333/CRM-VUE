@@ -1,0 +1,14 @@
+{
+  "clientes": [
+    {
+      "id": "0939",
+      "nombre": "Juan Thomas",
+      "apellido": "Reyes Bodo",
+      "email": "thomyrb30@gmail.com",
+      "telefono": "3584433855",
+      "empresa": "Udemy",
+      "puesto": "Junior",
+      "estado": true
+    }
+  ]
+}
